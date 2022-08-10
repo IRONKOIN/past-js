@@ -1,0 +1,23 @@
+{
+  "name": "past-js",
+  "version": "0.0.1",
+  "description": "JavaScript for past",
+  "main": "./lib/cjs/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IRONKOIN/past-js.git"
+  },
+  "keywords": [
+    "past-js",
+    "past",
+    "time",
+    "unix",
+    "unix time"
+  ],
+  "author": "ayushch80",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IRONKOIN/past-js/issues"
+  },
+  "homepage": "https://github.com/IRONKOIN/past-js#readme"
+}
